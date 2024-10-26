@@ -1,0 +1,13 @@
+env: test
+test:
+  host: 'https://test.aomaker.com'
+  account:
+    user: 'aomaker'
+    pwd: '123456'
+  
+release:
+  host: 'https://release.aomaker.com'
+  account:
+    user: 'aomaker'
+    pwd: '123456'
+
